@@ -19,7 +19,8 @@
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yubrajgiri05&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="yubraj" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yubrajgiri05&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="yubraj" /></p>
-<br>
+<br> <br> <br>
+
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=yubrajgiri05&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 
