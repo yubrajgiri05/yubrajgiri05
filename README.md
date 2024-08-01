@@ -22,11 +22,11 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=yubrajgiri05&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yubrajgiri05&theme=midnight-purple&hide_border=false" alt="yubraj" /></p>
+<br> <br>
 
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=yubrajgiri05&theme=midnight-purple&hide_border=false)<br/> -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yubrajgiri05&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="yubraj" /></p> <br> <br>
+<p><img align="right" src="https://github-contributor-stats.vercel.app/api?username=yubrajgiri05&limit=5&theme=blue_navy&combine_all_yearly_contributions=true" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yubrajgiri05&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="yubraj" /></p>
 
-<p><img align="right" src="https://github-contributor-stats.vercel.app/api?username=yubrajgiri05&limit=5&theme=blue_navy&combine_all_yearly_contributions=true" /></p> <br> <br>
 
 
 
