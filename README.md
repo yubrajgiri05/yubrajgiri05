@@ -1,14 +1,15 @@
 ﻿[![](https://visitcount.itsvg.in/api?id=yubrajgiri05&icon=5&color=5)](https://visitcount.itsvg.in)
 <br>
 <h1 align="center">Hey there, 👋 I am Yubraj Giri</h1>
+<p><img align="center" src="https://camo.githubusercontent.com/337869fc265db715bc53051fde314a89ceca0b18719f672ce90b57ff305ba460/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966" alt="yubraj" /></p>
+
 <p align="center">A passionate Frontend developer from Nepal . Proficient in JavaScript, TypeScript, and frameworks such as React and Next.js, with a strong understanding of modern development practices. Skilled in using CSS pre-processors and frameworks like Tailwind CSS, Bootstrap, and Ant Design to build responsive and cross-browser compatible designs. <br> I am ready for news adventures. Let's connect and explore opportunities to work together on meaningful projects.</p>
 
 
 
 # 💫 About Me:
-<p align="left">🔭 I’m currently working on something exciting<br>🤝 I’m looking to collaborate on Any type of Project <br>🌱 I’m currently learning Node js.<br>💬 Ask me about reactjs/next js and any css pre-processor<br>⚡ Time travel and Multiverse excite me. 
-<br> 📫 How to reach me dev.yubrajgiri@gmail.com</p>
-<p><img align="right" src="https://camo.githubusercontent.com/337869fc265db715bc53051fde314a89ceca0b18719f672ce90b57ff305ba460/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966" alt="yubraj" /></p>
+🔭 I’m currently working on something exciting<br>🤝 I’m looking to collaborate on Any type of Project <br>🌱 I’m currently learning Node js.<br>💬 Ask me about reactjs/next js and any css pre-processor<br>⚡ Time travel and Multiverse excite me. 
+<br> 📫 How to reach me dev.yubrajgiri@gmail.com
 
 
 
